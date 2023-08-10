@@ -1,5 +1,7 @@
 # sql-challenge
 
+In this challenge, I used QuickDBD to create my entity relationship diagram. I found this very useful for visualizing realtionships while writing queries. I used SQL on pgAdmin to analyze the employees from the database from the fictional company.  
+
 I used this website to learn how to better work with the DATE datatype and find the correct employees hired in 1986.
 https://www.geeksforgeeks.org/sql-date-functions/
 
